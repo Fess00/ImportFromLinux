@@ -1,0 +1,15 @@
+/home/magicwheel/User/Documents/Code/C#/skillbox/bin/Debug/net7.0/skillbox
+/home/magicwheel/User/Documents/Code/C#/skillbox/bin/Debug/net7.0/skillbox.deps.json
+/home/magicwheel/User/Documents/Code/C#/skillbox/bin/Debug/net7.0/skillbox.runtimeconfig.json
+/home/magicwheel/User/Documents/Code/C#/skillbox/bin/Debug/net7.0/skillbox.dll
+/home/magicwheel/User/Documents/Code/C#/skillbox/bin/Debug/net7.0/skillbox.pdb
+/home/magicwheel/User/Documents/Code/C#/skillbox/obj/Debug/net7.0/skillbox.csproj.AssemblyReference.cache
+/home/magicwheel/User/Documents/Code/C#/skillbox/obj/Debug/net7.0/skillbox.GeneratedMSBuildEditorConfig.editorconfig
+/home/magicwheel/User/Documents/Code/C#/skillbox/obj/Debug/net7.0/skillbox.AssemblyInfoInputs.cache
+/home/magicwheel/User/Documents/Code/C#/skillbox/obj/Debug/net7.0/skillbox.AssemblyInfo.cs
+/home/magicwheel/User/Documents/Code/C#/skillbox/obj/Debug/net7.0/skillbox.csproj.CoreCompileInputs.cache
+/home/magicwheel/User/Documents/Code/C#/skillbox/obj/Debug/net7.0/skillbox.dll
+/home/magicwheel/User/Documents/Code/C#/skillbox/obj/Debug/net7.0/refint/skillbox.dll
+/home/magicwheel/User/Documents/Code/C#/skillbox/obj/Debug/net7.0/skillbox.pdb
+/home/magicwheel/User/Documents/Code/C#/skillbox/obj/Debug/net7.0/skillbox.genruntimeconfig.cache
+/home/magicwheel/User/Documents/Code/C#/skillbox/obj/Debug/net7.0/ref/skillbox.dll

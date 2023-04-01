@@ -1,0 +1,15 @@
+/home/magicwheel/User/Documents/Code/C#/CW_1/CW_1/bin/Debug/net7.0/CW_1
+/home/magicwheel/User/Documents/Code/C#/CW_1/CW_1/bin/Debug/net7.0/CW_1.deps.json
+/home/magicwheel/User/Documents/Code/C#/CW_1/CW_1/bin/Debug/net7.0/CW_1.runtimeconfig.json
+/home/magicwheel/User/Documents/Code/C#/CW_1/CW_1/bin/Debug/net7.0/CW_1.dll
+/home/magicwheel/User/Documents/Code/C#/CW_1/CW_1/bin/Debug/net7.0/CW_1.pdb
+/home/magicwheel/User/Documents/Code/C#/CW_1/CW_1/obj/Debug/net7.0/CW_1.csproj.AssemblyReference.cache
+/home/magicwheel/User/Documents/Code/C#/CW_1/CW_1/obj/Debug/net7.0/CW_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/magicwheel/User/Documents/Code/C#/CW_1/CW_1/obj/Debug/net7.0/CW_1.AssemblyInfoInputs.cache
+/home/magicwheel/User/Documents/Code/C#/CW_1/CW_1/obj/Debug/net7.0/CW_1.AssemblyInfo.cs
+/home/magicwheel/User/Documents/Code/C#/CW_1/CW_1/obj/Debug/net7.0/CW_1.csproj.CoreCompileInputs.cache
+/home/magicwheel/User/Documents/Code/C#/CW_1/CW_1/obj/Debug/net7.0/CW_1.dll
+/home/magicwheel/User/Documents/Code/C#/CW_1/CW_1/obj/Debug/net7.0/refint/CW_1.dll
+/home/magicwheel/User/Documents/Code/C#/CW_1/CW_1/obj/Debug/net7.0/CW_1.pdb
+/home/magicwheel/User/Documents/Code/C#/CW_1/CW_1/obj/Debug/net7.0/CW_1.genruntimeconfig.cache
+/home/magicwheel/User/Documents/Code/C#/CW_1/CW_1/obj/Debug/net7.0/ref/CW_1.dll

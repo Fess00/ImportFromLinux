@@ -1,0 +1,15 @@
+/home/magicwheel/User/Documents/Code/C#/RW_streams/bin/Debug/net7.0/RW_streams
+/home/magicwheel/User/Documents/Code/C#/RW_streams/bin/Debug/net7.0/RW_streams.deps.json
+/home/magicwheel/User/Documents/Code/C#/RW_streams/bin/Debug/net7.0/RW_streams.runtimeconfig.json
+/home/magicwheel/User/Documents/Code/C#/RW_streams/bin/Debug/net7.0/RW_streams.dll
+/home/magicwheel/User/Documents/Code/C#/RW_streams/bin/Debug/net7.0/RW_streams.pdb
+/home/magicwheel/User/Documents/Code/C#/RW_streams/obj/Debug/net7.0/RW_streams.csproj.AssemblyReference.cache
+/home/magicwheel/User/Documents/Code/C#/RW_streams/obj/Debug/net7.0/RW_streams.GeneratedMSBuildEditorConfig.editorconfig
+/home/magicwheel/User/Documents/Code/C#/RW_streams/obj/Debug/net7.0/RW_streams.AssemblyInfoInputs.cache
+/home/magicwheel/User/Documents/Code/C#/RW_streams/obj/Debug/net7.0/RW_streams.AssemblyInfo.cs
+/home/magicwheel/User/Documents/Code/C#/RW_streams/obj/Debug/net7.0/RW_streams.csproj.CoreCompileInputs.cache
+/home/magicwheel/User/Documents/Code/C#/RW_streams/obj/Debug/net7.0/RW_streams.dll
+/home/magicwheel/User/Documents/Code/C#/RW_streams/obj/Debug/net7.0/refint/RW_streams.dll
+/home/magicwheel/User/Documents/Code/C#/RW_streams/obj/Debug/net7.0/RW_streams.pdb
+/home/magicwheel/User/Documents/Code/C#/RW_streams/obj/Debug/net7.0/RW_streams.genruntimeconfig.cache
+/home/magicwheel/User/Documents/Code/C#/RW_streams/obj/Debug/net7.0/ref/RW_streams.dll

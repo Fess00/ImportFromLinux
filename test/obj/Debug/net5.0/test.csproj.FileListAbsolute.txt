@@ -1,0 +1,16 @@
+/home/magicwheel/Documents/Code/C#/test/bin/Debug/net5.0/test
+/home/magicwheel/Documents/Code/C#/test/bin/Debug/net5.0/test.deps.json
+/home/magicwheel/Documents/Code/C#/test/bin/Debug/net5.0/test.runtimeconfig.json
+/home/magicwheel/Documents/Code/C#/test/bin/Debug/net5.0/test.runtimeconfig.dev.json
+/home/magicwheel/Documents/Code/C#/test/bin/Debug/net5.0/test.dll
+/home/magicwheel/Documents/Code/C#/test/bin/Debug/net5.0/ref/test.dll
+/home/magicwheel/Documents/Code/C#/test/bin/Debug/net5.0/test.pdb
+/home/magicwheel/Documents/Code/C#/test/obj/Debug/net5.0/test.csproj.AssemblyReference.cache
+/home/magicwheel/Documents/Code/C#/test/obj/Debug/net5.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/home/magicwheel/Documents/Code/C#/test/obj/Debug/net5.0/test.AssemblyInfoInputs.cache
+/home/magicwheel/Documents/Code/C#/test/obj/Debug/net5.0/test.AssemblyInfo.cs
+/home/magicwheel/Documents/Code/C#/test/obj/Debug/net5.0/test.csproj.CoreCompileInputs.cache
+/home/magicwheel/Documents/Code/C#/test/obj/Debug/net5.0/test.dll
+/home/magicwheel/Documents/Code/C#/test/obj/Debug/net5.0/ref/test.dll
+/home/magicwheel/Documents/Code/C#/test/obj/Debug/net5.0/test.pdb
+/home/magicwheel/Documents/Code/C#/test/obj/Debug/net5.0/test.genruntimeconfig.cache

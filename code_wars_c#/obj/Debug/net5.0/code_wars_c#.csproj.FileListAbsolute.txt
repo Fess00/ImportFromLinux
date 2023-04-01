@@ -1,0 +1,16 @@
+/home/magicwheel/User/Documents/Code/C#/code_wars_c#/bin/Debug/net5.0/code_wars_c#
+/home/magicwheel/User/Documents/Code/C#/code_wars_c#/bin/Debug/net5.0/code_wars_c#.deps.json
+/home/magicwheel/User/Documents/Code/C#/code_wars_c#/bin/Debug/net5.0/code_wars_c#.runtimeconfig.json
+/home/magicwheel/User/Documents/Code/C#/code_wars_c#/bin/Debug/net5.0/code_wars_c#.runtimeconfig.dev.json
+/home/magicwheel/User/Documents/Code/C#/code_wars_c#/bin/Debug/net5.0/code_wars_c#.dll
+/home/magicwheel/User/Documents/Code/C#/code_wars_c#/bin/Debug/net5.0/ref/code_wars_c#.dll
+/home/magicwheel/User/Documents/Code/C#/code_wars_c#/bin/Debug/net5.0/code_wars_c#.pdb
+/home/magicwheel/User/Documents/Code/C#/code_wars_c#/obj/Debug/net5.0/code_wars_c#.csproj.AssemblyReference.cache
+/home/magicwheel/User/Documents/Code/C#/code_wars_c#/obj/Debug/net5.0/code_wars_c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/magicwheel/User/Documents/Code/C#/code_wars_c#/obj/Debug/net5.0/code_wars_c#.AssemblyInfoInputs.cache
+/home/magicwheel/User/Documents/Code/C#/code_wars_c#/obj/Debug/net5.0/code_wars_c#.AssemblyInfo.cs
+/home/magicwheel/User/Documents/Code/C#/code_wars_c#/obj/Debug/net5.0/code_wars_c#.csproj.CoreCompileInputs.cache
+/home/magicwheel/User/Documents/Code/C#/code_wars_c#/obj/Debug/net5.0/code_wars_c#.dll
+/home/magicwheel/User/Documents/Code/C#/code_wars_c#/obj/Debug/net5.0/ref/code_wars_c#.dll
+/home/magicwheel/User/Documents/Code/C#/code_wars_c#/obj/Debug/net5.0/code_wars_c#.pdb
+/home/magicwheel/User/Documents/Code/C#/code_wars_c#/obj/Debug/net5.0/code_wars_c#.genruntimeconfig.cache
